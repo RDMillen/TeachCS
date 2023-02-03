@@ -1,8 +1,6 @@
 # Functions & Subroutines
 # R Millen 2023
 
-import time
-
 # Operation in line:
 
 #print(8 + 5)
@@ -32,6 +30,14 @@ import time
 # What's Wrong? Fix Me!
 # add_o_matic (13, "10")
 
+# String Example
+
+#def make_angry(text):
+#    text = text.upper()
+#    print(text + "!")
+#
+#make_angry("Hello")
+
 # Difference between print and return in a function.
 
 #def print_function():
@@ -43,9 +49,7 @@ import time
 #f1 = print_function()
 #f2 = return_function()
 
-#print("Lets see what f1 and f2 show...")
-
-#time.sleep(2)
+#input("What do you think the difference between print and return will be?")
 
 #print(f1)
 #print(f2)
