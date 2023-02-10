@@ -35,8 +35,8 @@
 #def make_angry(text):
 #    text = text.upper()
 #    print(text + "!")
-#
-#make_angry("Hello")
+
+#make_angry(input("Let me make your text angry! "))
 
 # Difference between print and return in a function.
 
