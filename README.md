@@ -2,7 +2,7 @@
 
 
 
-![TeachCS Logo](/Media/TeachCS 2048px Logo - Transparent - Crop.PNG)
+![TeachCS Logo](https://raw.githubusercontent.com/RDMillen/TeachCS/main/Media/TeachCS%202048px%20Logo%20-%20Transparent%20-%20Crop.PNG?token=GHSAT0AAAAAACG5J5ZCHUW2A2Z57EFUYAAKZJLEEQA)
 
 # TeachCS Education Repository
 
